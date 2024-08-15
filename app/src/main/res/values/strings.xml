@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShowLogsApp</string>
+    <string name="logsMenuText">Logs</string>
+    <string name="sendMenuText">Search</string>
+    <string name="toastEmptyText">Don\'t leave the fields empty</string>
+    <string name="noInternetText">Check your wi-fi connect</string>
+</resources>

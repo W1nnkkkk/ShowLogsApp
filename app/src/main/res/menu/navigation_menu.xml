@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigation_view">
+        <item android:title="Main">
+                <menu>
+                        <item
+                            android:id="@+id/logsFragment"
+                            android:title="@string/logsMenuText"
+                            android:icon="@drawable/ic_list" />
+
+                        <item
+                            android:id="@+id/setLogsCountFragment"
+                            android:icon="@drawable/ic_send"
+                            android:title="@string/sendMenuText" />
+                </menu>
+        </item>
+</menu>
